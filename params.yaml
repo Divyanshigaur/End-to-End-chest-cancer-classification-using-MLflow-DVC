@@ -1,0 +1,7 @@
+data_ingestion:
+  batch_size: 32
+  shuffle: True
+
+training:
+  epochs: 10
+  learning_rate: 0.001
